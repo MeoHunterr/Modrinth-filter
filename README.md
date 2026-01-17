@@ -1,4 +1,4 @@
-# Modrinth Native Filter
+# Modrinth Filter
 
 A userscript that adds a native-style filtering UI to Modrinth.com, allowing users to hide mods based on specific tags (e.g., "Client", "Fabric") instantly without reloading the page.
 
